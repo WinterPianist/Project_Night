@@ -1,0 +1,22 @@
+
+
+2.5 ~ 2.6
+1. I made a terrain. I downloaded a free fund from the manager store and used this to build my own basic topography.
+
+2. Among the downloaded assets, I added capsule collider because there was no collision function on the wooden object. Now it's possible to collide with trees and players.
+
+3. I set up a whole sky background. I downloaded a free acquisition because I don't know how to make images. And if I use Skybox to put an image on top of the coordinate plane, I could make my own experience out of it.
+
+4. When objects collided with light, I wanted to create a scattering effect. I didn't know that Unity Junity Yunati had a version of computer support of version 5 called sun shadow. So again, I got ta go get some of the power from the Asset Store, download some free Asset to implement the lighting effect, but I didn't think it was important that I spent a few hours making this part of the program.
+
+5. I was just surfing the Internet to make the terrain better, and I found a way to make fog and free of charge, a simple map formation, by the way. 
+   Fog will be added later in consultation with my team. I think I'll look for it again then. 
+   The company is planning to set it up and deal with it tomorrow. I think geography has been built before, and it needs to be as simple as planting trees or coloring. I think it might be easy to finish.
+
+
+2.7
+1. Make Collision between Light and Player.
+   First, I made a cone using the blender program.
+   Next, the cone was transparent using the shaders in Unity.
+   Finally, create a script to create a cone to fit the range of point lights. Position it, handle the collision.
+   
